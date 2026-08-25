@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Vasıta",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "0D5z3NpHREK-GudDS4i36Q",
+  "Reference": "8uXvx_q4wUiXdMvj17auUA/0D5z3NpHREK-GudDS4i36Q",
+  "ParentRef": "8uXvx_q4wUiXdMvj17auUA/u5VWU3r7tkqX8PtXZqXgTg",
+  "Created": "2026-08-10T07:12:16.5008517Z",
+  "Updated": "2026-08-10T07:12:16.5008517Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

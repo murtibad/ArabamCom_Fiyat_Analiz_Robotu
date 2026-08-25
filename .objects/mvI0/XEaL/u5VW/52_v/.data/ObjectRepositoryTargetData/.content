@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="ut-lkyoAIUi-zxjyRAI9wA" Reference="8uXvx_q4wUiXdMvj17auUA/52_vgFMQBk6OKboW7i9nWw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="gemini.google.com/app/9183a7bfa252ea19" DesignTimeRectangle="1967, 1475, 150, 47" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl id='onetrust-accept-btn-handler' tag='BUTTON' /&gt;" Guid="8d8a3f78-e181-45f9-b1f3-807019f99cc4" ScopeSelectorArgument="&lt;html app='chrome.exe' title='İkinci El BMW 3 Serisi 316i Fiyatları ve Modelleri - arabam.com' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="48f721943b9be40c0f3c5f98f443b02e.jpg" xmlns="">00iuaMfHYC02yHQcamCjfoA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

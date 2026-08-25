@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Minivan & Panelvan",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "4zHt7vnGh0yGLfhyiTzQUw",
+  "Reference": "8uXvx_q4wUiXdMvj17auUA/4zHt7vnGh0yGLfhyiTzQUw",
+  "ParentRef": "8uXvx_q4wUiXdMvj17auUA/u5VWU3r7tkqX8PtXZqXgTg",
+  "Created": "2026-08-10T07:40:24.2214747Z",
+  "Updated": "2026-08-10T07:40:24.2214747Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

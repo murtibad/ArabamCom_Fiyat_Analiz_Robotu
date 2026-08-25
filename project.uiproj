@@ -1,0 +1,6 @@
+{
+  "Name": "ArabamCom_Fiyat_Analiz_Robotu",
+  "ProjectType": "Process",
+  "Description": "Arabam.com üzerinden belirli bir model araçları çekerek fiyat ve kilometre analizi yapan, 1 milyon TL sınırına ve yıllara göre ortalama kilometreleri hesaplayıp LibreOffice (Excel) raporu sunan eğitim projesi.",
+  "MainFile": "Main.xaml"
+}

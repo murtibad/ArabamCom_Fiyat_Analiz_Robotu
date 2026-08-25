@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="vwH7wQPGIUS1CnGgt9WENg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="arabam.com/aramalar" DesignTimeRectangle="935, 511, 161, 23" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl aaname='Minivan &amp;amp; Panelvan' tag='STRONG' /&gt;" Guid="8a94dd40-1b79-4fe9-a8a7-b9cd29b93ea0" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Kelime İle Arama | arabam.com' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="b0346afc8d800323b89d8fb8557430d2.jpg" xmlns="">0ofcOV_KEKE66DATJdxvYrQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

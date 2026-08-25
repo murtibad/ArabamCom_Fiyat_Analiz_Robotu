@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome BMW 3 Serisi Fiyatları & İkinci El Sat",
+  "Type": "Screen",
+  "Id": "5qH6LI32qkOmga_JXH5Gdw",
+  "Reference": "8uXvx_q4wUiXdMvj17auUA/5qH6LI32qkOmga_JXH5Gdw",
+  "ParentRef": "8uXvx_q4wUiXdMvj17auUA/XEaLVdLd2UCDQkqsvd06XQ",
+  "Created": "2026-08-04T09:41:07.508094Z",
+  "Updated": "2026-08-04T09:41:07.508094Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

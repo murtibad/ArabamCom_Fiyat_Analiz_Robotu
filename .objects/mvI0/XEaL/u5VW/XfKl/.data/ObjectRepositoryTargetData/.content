@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="1W7Ye01JF0GVw_2qrnaQ-A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="arabam.com" DesignTimeRectangle="843, 254, 603, 42" ElementType="InputBox" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl id='search-input-desktop' tag='INPUT' /&gt;" Guid="e2f7e60d-23c0-48f4-b500-aa40bef3fb98" ScopeSelectorArgument="&lt;html app='chrome.exe' title='arabam.com: 2. El ve 0 Km Satılık Araç İlanları Platformu' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="c358eb27602b2f0d8e4d43678b3cfdc2.jpg" xmlns="">0vN4H29KzpUa6xk5DP4r6EQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="lRN8P9qUzkuh7vO6IXawxw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="-11, -11, 2582, 1550" BrowserType="Chrome" IconBase64="iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABGdBTUEAALGPC/xhBQAAAkhJREFUWEfNV0toE1EUfSmiC7OTrAT3LoQZoyCCWBcRl1aroBt/IN3FD4guisWlLkTQulCh0I0u6gcUN6GIulJwJW78IcxM00k6JmZM0kwyR+6Yqel9KUzzpokHzmbe4dzzHm9m7hWiA3ZqOGkJLWsKPWcKfc4UumcIDSokj7ZXjrypRmfNJZhCy5hCt7lB3KQaVKtb8SYXrxWp1lIIO3Uk2Y+dc1JNWwwnhTWUzvLFfpHuhDAT23N8oV+kiynMhJ7nC/0ivR10AsqvWq+kV1QYCV1aWIlWah9Kl2+hPvsO3ucf8L4ZqL96j/LEXcxtOYDy+B1UJh8tY37riOTTycgBnNNX0SpXsBL8xQb8Wp0/RmH/mOS16gC0616hHKCQGYPv+9w3MtQCDOlofPzCPeE3m3DvP0bx0AUUD19E5fZD+PVFLgugFMDec4r7BadRHDkvaee1o2i5VS5XC0C3m6M6k5N0Ib3vJperBXAfPOF+cM5ek3QhYw/we/o594NzclzShYw9wK8bU9wP7r0ZSRcy9gDFg+e4X3Db59PHJK21aS9aCyUuVwtgbtyFZsHhnsEXsXTpJvLbRoNPrXNmouvuCUoBiD+z17nnqqAcwEhoqD6d5b6RoR6AuH4H3Kln3DsS4gnQJv0Xai/fBn++EL7nof7mAxaOX0HtxWs0Pn1dRnv3Ccmnk701JOvSsDZngh7A2LBTXo/IoCH5H1qywTalA2/LaVYb6GAy8NGMzYdrfhJdh9MQdCT/xnMtH994Hnj9Hc/DY2/jDxlcfX+sNtsVAAAAAElFTkSuQmCC" Selector="&lt;html app='chrome.exe' title='BMW 3 Serisi Fiyatları &amp;amp; İkinci El Satılık BMW 3 Serisi Modelleri - arabam.com - Sayfa 2' /&gt;" Url="https://www.arabam.com/ikinci-el/otomobil/bmw-3-serisi?page=2" Version="V3">
+      <imageRef attrName="InformativeScreenshot" originalValue="63dcfe505a9aacc705727808f0f3a7ad.jpg" xmlns="">0iIi0jK04GEaV9lDSsfp-qw</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>
